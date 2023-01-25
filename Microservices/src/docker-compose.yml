@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+
+  masterdb:
+    image: mcr.microsoft.com/mssql/server:2017-latest
+
+  masterdatamanagement.api:
+    image: ${DOCKER_REGISTRY-}masterdatamanagementapi
+    build:
+      context: .
+      dockerfile: Services/MasterDataManagement/MasterDataManagement.API/Dockerfile

@@ -1,0 +1,81 @@
+D:\Shalim\Microservices\src\bin\Debug\RMS.API.deps.json
+D:\Shalim\Microservices\src\bin\Debug\RMS.API.runtimeconfig.json
+D:\Shalim\Microservices\src\bin\Debug\appsettings.Development.json
+D:\Shalim\Microservices\src\bin\Debug\appsettings.json
+D:\Shalim\Microservices\src\bin\Debug\RMS.API.exe
+D:\Shalim\Microservices\src\bin\Debug\RMS.API.dll
+D:\Shalim\Microservices\src\bin\Debug\RMS.Infrastructure.dll
+D:\Shalim\Microservices\src\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Shalim\Microservices\src\bin\Debug\RMS.Core.dll
+D:\Shalim\Microservices\src\bin\Debug\AutoMapper.dll
+D:\Shalim\Microservices\src\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Shalim\Microservices\src\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Shalim\Microservices\src\bin\Debug\Microsoft.OpenApi.dll
+D:\Shalim\Microservices\src\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Shalim\Microservices\src\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\Shalim\Microservices\src\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Shalim\Microservices\src\bin\Debug\Newtonsoft.Json.dll
+D:\Shalim\Microservices\src\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Shalim\Microservices\src\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Shalim\Microservices\src\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Shalim\Microservices\src\bin\Debug\Microsoft.Identity.Client.dll
+D:\Shalim\Microservices\src\bin\Debug\RMS.API.pdb
+D:\Shalim\Microservices\src\bin\Debug\RMS.Infrastructure.pdb
+D:\Shalim\Microservices\src\bin\Debug\RMS.Core.pdb
+D:\Shalim\Microservices\src\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Shalim\Microservices\src\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Shalim\Microservices\src\obj\Debug\docker-compose.dcproj.CopyComplete
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\RMS.API.dll
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\RMS.API.deps.json
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\RMS.API.runtimeconfig.json
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\appsettings.Development.json
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\appsettings.json
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\RMS.API.exe
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\RMS.Infrastructure.dll
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\RMS.Core.dll
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\AutoMapper.dll
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\Microsoft.OpenApi.dll
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\Newtonsoft.Json.dll
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\Microsoft.Identity.Client.dll
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\RMS.API.pdb
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\RMS.Infrastructure.pdb
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\bin\Debug\RMS.Core.pdb
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\MicroServiceBySHALIM\SIL_Microservice\MicroserviceByShalim\Microservices\src\obj\Debug\docker-compose.dcproj.CopyComplete
+D:\Working Project\Microservices\src\bin\Debug\MasterDataManagement.API.dll
+D:\Working Project\Microservices\src\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Working Project\Microservices\src\bin\Debug\MasterDataManagement.API.deps.json
+D:\Working Project\Microservices\src\bin\Debug\MasterDataManagement.API.runtimeconfig.json
+D:\Working Project\Microservices\src\bin\Debug\appsettings.Development.json
+D:\Working Project\Microservices\src\bin\Debug\appsettings.json
+D:\Working Project\Microservices\src\bin\Debug\MasterDataManagement.API.exe
+D:\Working Project\Microservices\src\bin\Debug\MasterDataManagement.Infrastructure.dll
+D:\Working Project\Microservices\src\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Working Project\Microservices\src\bin\Debug\AutoMapper.dll
+D:\Working Project\Microservices\src\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Working Project\Microservices\src\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Working Project\Microservices\src\bin\Debug\Microsoft.OpenApi.dll
+D:\Working Project\Microservices\src\bin\Debug\MasterDataManagement.Core.dll
+D:\Working Project\Microservices\src\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Working Project\Microservices\src\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\Working Project\Microservices\src\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Working Project\Microservices\src\bin\Debug\Newtonsoft.Json.dll
+D:\Working Project\Microservices\src\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Working Project\Microservices\src\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Working Project\Microservices\src\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Working Project\Microservices\src\bin\Debug\Microsoft.Identity.Client.dll
+D:\Working Project\Microservices\src\bin\Debug\MasterDataManagement.API.pdb
+D:\Working Project\Microservices\src\bin\Debug\MasterDataManagement.Infrastructure.pdb
+D:\Working Project\Microservices\src\bin\Debug\MasterDataManagement.Core.pdb
+D:\Working Project\Microservices\src\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Working Project\Microservices\src\obj\Debug\docker-compose.dcproj.CopyComplete

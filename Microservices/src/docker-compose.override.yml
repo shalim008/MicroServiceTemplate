@@ -1,0 +1,21 @@
+version: '3.4'
+
+services:
+
+  masterdb:
+    container_name: masterdb
+    environment:
+        SA_PASSWORD: "SwN12345678"
+        ACCEPT_EULA: "Y"
+    restart: always
+    ports:
+        - "14330:1433"
+
+  masterdatamanagement.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - "ConnectionStrings:DefaultConnection=Server=masterdb;Database=MasterDB;User Id=sa;Password=SwN12345678;TrustServerCertificate=Yes;"            
+    depends_on:
+      - masterdb 
+    ports:
+      - "8001:80"

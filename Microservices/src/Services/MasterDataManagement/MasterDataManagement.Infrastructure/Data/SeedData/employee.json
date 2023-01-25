@@ -1,0 +1,74 @@
+[
+  {
+    "SysSalesOfficeId": 1,
+    "EmployeeNo": "205",
+    "Name": "SHALIM AHMED",
+    "CompanyCode": "1000",
+    "ContactNo": "123456",
+    "Email": "shalim@squaregroup.com",
+    "EmployeeType": "DA",
+    "CreatedBy": "",    
+    "ChangedBy": "",   
+    "DataStatus": 1
+  },
+  {
+    "SysSalesOfficeId": 1,
+    "EmployeeNo": "206",
+    "Name": "RANA NAVID",
+    "CompanyCode": "1000",
+    "ContactNo": "123456",
+    "Email": "rana@squaregroup.com",
+    "EmployeeType": "DA",
+    "CreatedBy": "",    
+    "ChangedBy": "",   
+    "DataStatus": 1
+  },
+  {
+    "SysSalesOfficeId": 1,
+    "EmployeeNo": "207",
+    "Name": "HARUN ",
+    "CompanyCode": "1000",
+    "ContactNo": "123456",
+    "Email": "1@squaregroup.com",
+    "EmployeeType": "DA",
+    "CreatedBy": "",    
+    "ChangedBy": "",   
+    "DataStatus": 1
+  },
+  {
+    "SysSalesOfficeId": 1,
+    "EmployeeNo": "208",
+    "Name": "KAMAL",
+    "CompanyCode": "1000",
+    "ContactNo": "123456",
+    "Email": "2@squaregroup.com",
+    "EmployeeType": "DA",
+    "CreatedBy": "",    
+    "ChangedBy": "",   
+    "DataStatus": 1
+  },
+  {
+    "SysSalesOfficeId": 1,
+    "EmployeeNo": "209",
+    "Name": "HALIM",
+    "CompanyCode": "1000",
+    "ContactNo": "123456",
+    "Email": "3@squaregroup.com",
+    "EmployeeType": "DA",
+    "CreatedBy": "",    
+    "ChangedBy": "",   
+    "DataStatus": 1
+  },
+  {
+    "SysSalesOfficeId": 1,
+    "EmployeeNo": "210",
+    "Name": "BINOY",
+    "CompanyCode": "1000",
+    "ContactNo": "123456",
+    "Email": "4@squaregroup.com",
+    "EmployeeType": "DA",
+    "CreatedBy": "",    
+    "ChangedBy": "",   
+    "DataStatus": 1
+  }
+]

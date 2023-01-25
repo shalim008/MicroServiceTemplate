@@ -1,0 +1,12 @@
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\bin\Debug\net7.0\MasterDataManagement.Core.deps.json
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\bin\Debug\net7.0\MasterDataManagement.Core.dll
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\bin\Debug\net7.0\MasterDataManagement.Core.pdb
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\MasterDataManagement.Core.csproj.AssemblyReference.cache
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\MasterDataManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\MasterDataManagement.Core.AssemblyInfoInputs.cache
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\MasterDataManagement.Core.AssemblyInfo.cs
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\MasterDataManagement.Core.csproj.CoreCompileInputs.cache
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\MasterDataManagement.Core.dll
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\refint\MasterDataManagement.Core.dll
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\MasterDataManagement.Core.pdb
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\ref\MasterDataManagement.Core.dll

@@ -1,0 +1,15 @@
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Infrastructure\bin\Debug\net7.0\MasterDataManagement.Infrastructure.deps.json
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Infrastructure\bin\Debug\net7.0\MasterDataManagement.Infrastructure.dll
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Infrastructure\bin\Debug\net7.0\MasterDataManagement.Infrastructure.pdb
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Infrastructure\bin\Debug\net7.0\MasterDataManagement.Core.dll
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Infrastructure\bin\Debug\net7.0\MasterDataManagement.Core.pdb
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Infrastructure\obj\Debug\net7.0\MasterDataManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Infrastructure\obj\Debug\net7.0\MasterDataManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Infrastructure\obj\Debug\net7.0\MasterDataManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Infrastructure\obj\Debug\net7.0\MasterDataManagement.Infrastructure.AssemblyInfo.cs
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Infrastructure\obj\Debug\net7.0\MasterDataManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Infrastructure\obj\Debug\net7.0\MasterDataManagement.Infrastructure.csproj.CopyComplete
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Infrastructure\obj\Debug\net7.0\MasterDataManagement.Infrastructure.dll
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Infrastructure\obj\Debug\net7.0\refint\MasterDataManagement.Infrastructure.dll
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Infrastructure\obj\Debug\net7.0\MasterDataManagement.Infrastructure.pdb
+D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Infrastructure\obj\Debug\net7.0\ref\MasterDataManagement.Infrastructure.dll

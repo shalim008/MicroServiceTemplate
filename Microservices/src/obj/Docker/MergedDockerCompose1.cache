@@ -1,0 +1,91 @@
+name: dockercompose16106758476099916045
+services:
+  masterdatamanagement.api:
+    build:
+      context: D:\Working Project\Microservices\src
+      dockerfile: Services/MasterDataManagement/MasterDataManagement.API/Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: MasterDataManagement.API
+      target: base
+    container_name: MasterDataManagement.API
+    depends_on:
+      masterdb:
+        condition: service_started
+    entrypoint:
+    - tail
+    - -f
+    - /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      ConnectionStrings:DefaultConnection: Server=masterdb;Database=MasterDB;User
+        Id=sa;Password=SwN12345678;TrustServerCertificate=Yes;
+      DOTNET_USE_POLLING_FILE_WATCHER: "1"
+      NUGET_FALLBACK_PACKAGES: ""
+    image: masterdatamanagementapi:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages  ""'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "8001"
+      protocol: tcp
+    tty: true
+    volumes:
+    - type: bind
+      source: D:\Working Project\Microservices\src\Services\MasterDataManagement\MasterDataManagement.API
+      target: /app
+      bind:
+        create_host_path: true
+    - type: bind
+      source: D:\Working Project\Microservices\src
+      target: /src
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\amish\vsdbg\vs2017u5
+      target: /remote_debugger
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\amish\.nuget\packages\
+      target: /root/.nuget/packages
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\amish\AppData\Roaming/ASP.NET/Https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\amish\AppData\Roaming/Microsoft/UserSecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+  masterdb:
+    container_name: masterdb
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: SwN12345678
+    image: mcr.microsoft.com/mssql/server:2017-latest
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 1433
+      published: "14330"
+      protocol: tcp
+    restart: always
+networks:
+  default:
+    name: dockercompose16106758476099916045_default

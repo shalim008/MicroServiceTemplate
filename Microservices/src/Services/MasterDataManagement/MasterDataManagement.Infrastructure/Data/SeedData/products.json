@@ -1,0 +1,98 @@
+[
+  {
+    "ProductCode": "P-001",
+    "Name": "Product 1",
+    "Description": "DESC",
+    "ProductUnit": "Pcs",
+    "UnitPrice": 20.00,
+    "DataStatus": 1
+  },
+  {
+    "ProductCode": "P-002",
+    "Name": "Product 2",
+    "Description": "DESC",
+    "ProductUnit": "Pcs",
+    "UnitPrice": 30.25,
+    "DataStatus": 1
+  },
+  {
+    "ProductCode": "P-003",
+    "Name": "Product 3",
+    "Description": "DESC",
+    "ProductUnit": "Pcs",
+    "UnitPrice": 20.00,
+    "DataStatus": 1
+  },
+  {
+    "ProductCode": "P-004",
+    "Name": "Product 4",
+    "Description": "DESC",
+    "ProductUnit": "Pcs",
+    "UnitPrice": 40.25,
+    "DataStatus": 1
+  },
+  {
+    "ProductCode": "P-005",
+    "Name": "Product 5",
+    "Description": "DESC",
+    "ProductUnit": "Pcs",
+    "UnitPrice": 45.00,
+    "DataStatus": 1
+  },
+  {
+    "ProductCode": "P-006",
+    "Name": "Product 6",
+    "Description": "DESC",
+    "ProductUnit": "Pcs",
+    "UnitPrice": 85.00,
+    "DataStatus": 1
+  },
+  {
+    "ProductCode": "P-007",
+    "Name": "Product 7",
+    "Description": "DESC",
+    "ProductUnit": "Pcs",
+    "UnitPrice": 45.00,
+    "DataStatus": 1
+  },
+  {
+    "ProductCode": "P-008",
+    "Name": "Product 8",
+    "Description": "DESC",
+    "ProductUnit": "Pcs",
+    "UnitPrice": 40.25,
+    "DataStatus": 1
+  },
+  {
+    "ProductCode": "P-009",
+    "Name": "Product 9",
+    "Description": "DESC",
+    "ProductUnit": "Pcs",
+    "UnitPrice": 50.00,
+    "DataStatus": 1
+  },
+  {
+    "ProductCode": "P-0010",
+    "Name": "Product 10",
+    "Description": "DESC",
+    "ProductUnit": "Pcs",
+    "UnitPrice": 40.25,
+    "DataStatus": 1
+  },
+  {
+    "ProductCode": "P-0011",
+    "Name": "Product 11",
+    "Description": "DESC",
+    "ProductUnit": "Pcs",
+    "UnitPrice": 40.25,
+    "DataStatus": 1
+  },
+  {
+    "ProductCode": "P-0012",
+    "Name": "Product 12",
+    "Description": "DESC",
+    "ProductUnit": "Pcs",
+    "UnitPrice": 40.25,
+    "DataStatus": 1
+  }
+]

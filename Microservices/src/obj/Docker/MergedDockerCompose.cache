@@ -1,0 +1,38 @@
+name: dockercompose16106758476099916045
+services:
+  masterdatamanagement.api:
+    build:
+      context: D:\Working Project\Microservices\src
+      dockerfile: Services/MasterDataManagement/MasterDataManagement.API/Dockerfile
+    depends_on:
+      masterdb:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings:DefaultConnection: Server=masterdb;Database=MasterDB;User
+        Id=sa;Password=SwN12345678;TrustServerCertificate=Yes;
+    image: masterdatamanagementapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "8001"
+      protocol: tcp
+  masterdb:
+    container_name: masterdb
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: SwN12345678
+    image: mcr.microsoft.com/mssql/server:2017-latest
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 1433
+      published: "14330"
+      protocol: tcp
+    restart: always
+networks:
+  default:
+    name: dockercompose16106758476099916045_default

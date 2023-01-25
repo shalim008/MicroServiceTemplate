@@ -1,0 +1,68 @@
+[
+  {
+    "CustomerNo": "CN-1",
+    "CustomerName": "A Pharmachy",
+    "Address": "SAMPLE Address -1",
+    "DataStatus": 1
+  },
+  {
+    "CustomerNo": "CN-2",
+    "CustomerName": "B Pharmachy",
+    "Address": "NA",
+    "DataStatus": 1
+  },
+  {
+    "CustomerNo": "CN-3",
+    "CustomerName": "C Pharmachy",
+    "Address": "NA",
+    "DataStatus": 1
+  },
+  {
+    "CustomerNo": "CN-4",
+    "CustomerName": "D Pharmachy",
+    "Address": "NA",
+    "DataStatus": 1
+  },
+  {
+    "CustomerNo": "CN-5",
+    "CustomerName": "E Pharmachy",
+    "Address": "NA",
+    "DataStatus": 1
+  },
+  {
+    "CustomerNo": "CN-6",
+    "CustomerName": "F Pharmachy",
+    "Address": "NA",
+    "DataStatus": 1
+  },
+  {
+    "CustomerNo": "CN-7",
+    "CustomerName": "G Pharmachy",
+    "Address": "NA",
+    "DataStatus": 1
+  },
+  {
+    "CustomerNo": "CN-8",
+    "CustomerName": "H Pharmachy",
+    "Address": "NA",
+    "DataStatus": 1
+  },
+  {
+    "CustomerNo": "CN-9",
+    "CustomerName": "I Pharmachy",
+    "Address": "NA",
+    "DataStatus": 1
+  },
+  {
+    "CustomerNo": "CN-10",
+    "CustomerName": "J Pharmachy",
+    "Address": "NA",
+    "DataStatus": 1
+  },
+  {
+    "CustomerNo": "CN-11",
+    "CustomerName": "K Pharmachy",
+    "Address": "NA",
+    "DataStatus": 1
+  }
+]
