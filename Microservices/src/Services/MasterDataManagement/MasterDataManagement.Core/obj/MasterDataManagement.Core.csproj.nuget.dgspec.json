@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Working Project\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj": {}
+    "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj": {}
   },
   "projects": {
-    "D:\\Working Project\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj": {
+    "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Working Project\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj",
+        "projectUniqueName": "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj",
         "projectName": "MasterDataManagement.Core",
-        "projectPath": "D:\\Working Project\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj",
-        "packagesPath": "C:\\Users\\amish\\.nuget\\packages\\",
-        "outputPath": "D:\\Working Project\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\obj\\",
+        "projectPath": "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\amish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

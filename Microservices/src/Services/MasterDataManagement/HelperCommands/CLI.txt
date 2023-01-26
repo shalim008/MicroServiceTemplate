@@ -1,0 +1,6 @@
+
+############# EF ###########
+
+dotnet ef migrations add InithialCreate -p MasterDataManagement.Infrastructure -s MasterDataManagement.API -o Data/Migrations  -c StoreContext
+
+dotnet ef database update -p MasterDataManagement.Infrastructure -s MasterDataManagement.API -c StoreContext

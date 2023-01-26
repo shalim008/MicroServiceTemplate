@@ -1,8 +1,8 @@
-name: dockercompose16106758476099916045
+name: dockercompose2444028534447846344
 services:
   masterdatamanagement.api:
     build:
-      context: D:\Working Project\Microservices\src
+      context: D:\Microservice Custom\MicroServiceTemplate\Microservices\src
       dockerfile: Services/MasterDataManagement/MasterDataManagement.API/Dockerfile
     depends_on:
       masterdb:
@@ -35,4 +35,4 @@ services:
     restart: always
 networks:
   default:
-    name: dockercompose16106758476099916045_default
+    name: dockercompose2444028534447846344_default
