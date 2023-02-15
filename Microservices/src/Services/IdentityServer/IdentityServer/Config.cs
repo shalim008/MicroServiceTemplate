@@ -25,8 +25,8 @@ namespace IdentityServer
                    },
                    new Client
                    {
-                       ClientId = "movies_mvc_client",
-                       ClientName = "Movies MVC Web App",
+                       ClientId = "masterData_mvc_client",
+                       ClientName = "Identity MVC Web App",
                        AllowedGrantTypes = GrantTypes.Hybrid,
                        RequirePkce = false,
                        AllowRememberConsent = false,

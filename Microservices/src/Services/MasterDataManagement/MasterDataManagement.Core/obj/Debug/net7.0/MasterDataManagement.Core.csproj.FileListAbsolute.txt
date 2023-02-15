@@ -22,3 +22,15 @@ D:\Microservice Custom\MicroServiceTemplate\Microservices\src\Services\MasterDat
 D:\Microservice Custom\MicroServiceTemplate\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\refint\MasterDataManagement.Core.dll
 D:\Microservice Custom\MicroServiceTemplate\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\MasterDataManagement.Core.pdb
 D:\Microservice Custom\MicroServiceTemplate\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\ref\MasterDataManagement.Core.dll
+E:\Working Project\MicroServiceTemplate\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\bin\Debug\net7.0\MasterDataManagement.Core.deps.json
+E:\Working Project\MicroServiceTemplate\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\bin\Debug\net7.0\MasterDataManagement.Core.dll
+E:\Working Project\MicroServiceTemplate\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\bin\Debug\net7.0\MasterDataManagement.Core.pdb
+E:\Working Project\MicroServiceTemplate\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\MasterDataManagement.Core.csproj.AssemblyReference.cache
+E:\Working Project\MicroServiceTemplate\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\MasterDataManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working Project\MicroServiceTemplate\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\MasterDataManagement.Core.AssemblyInfoInputs.cache
+E:\Working Project\MicroServiceTemplate\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\MasterDataManagement.Core.AssemblyInfo.cs
+E:\Working Project\MicroServiceTemplate\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\MasterDataManagement.Core.csproj.CoreCompileInputs.cache
+E:\Working Project\MicroServiceTemplate\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\MasterDataManagement.Core.dll
+E:\Working Project\MicroServiceTemplate\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\refint\MasterDataManagement.Core.dll
+E:\Working Project\MicroServiceTemplate\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\MasterDataManagement.Core.pdb
+E:\Working Project\MicroServiceTemplate\Microservices\src\Services\MasterDataManagement\MasterDataManagement.Core\obj\Debug\net7.0\ref\MasterDataManagement.Core.dll

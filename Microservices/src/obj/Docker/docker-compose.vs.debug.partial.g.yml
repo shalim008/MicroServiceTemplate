@@ -14,10 +14,10 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=
     volumes:
-      - D:\Microservice Custom\MicroServiceTemplate\Microservices\src\Services\MasterDataManagement\MasterDataManagement.API:/app
-      - D:\Microservice Custom\MicroServiceTemplate\Microservices\src:/src
-      - C:\Users\admin\vsdbg\vs2017u5:/remote_debugger:rw
-      - C:\Users\admin\.nuget\packages\:/root/.nuget/packages:ro
+      - E:\Working Project\MicroServiceTemplate\Microservices\src\Services\MasterDataManagement\MasterDataManagement.API:/app
+      - E:\Working Project\MicroServiceTemplate\Microservices\src:/src
+      - C:\Users\amish\vsdbg\vs2017u5:/remote_debugger:rw
+      - C:\Users\amish\.nuget\packages\:/root/.nuget/packages:ro
       - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
       - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
 

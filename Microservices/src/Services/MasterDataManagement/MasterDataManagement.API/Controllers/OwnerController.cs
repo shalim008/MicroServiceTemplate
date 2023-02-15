@@ -5,12 +5,15 @@ using MasterDataManagement.API.Helpers;
 using MasterDataManagement.Core.Entities;
 using MasterDataManagement.Core.IRepository;
 using MasterDataManagement.Core.Specifications;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MasterDataManagement.API.Controllers
 {
 
     [Route("api/v1/[controller]")]
+
+    [Authorize]
     public class OwnerController : BaseApiController
     {
         private readonly IGenericRepository<SysOwner> _ownerRepo;

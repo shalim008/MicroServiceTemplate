@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Infrastructure\\MasterDataManagement.Infrastructure.csproj": {}
+    "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Infrastructure\\MasterDataManagement.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj": {
+    "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj",
+        "projectUniqueName": "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj",
         "projectName": "MasterDataManagement.Core",
-        "projectPath": "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\obj\\",
+        "projectPath": "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj",
+        "packagesPath": "C:\\Users\\amish\\.nuget\\packages\\",
+        "outputPath": "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\amish\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,21 +55,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Infrastructure\\MasterDataManagement.Infrastructure.csproj": {
+    "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Infrastructure\\MasterDataManagement.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Infrastructure\\MasterDataManagement.Infrastructure.csproj",
+        "projectUniqueName": "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Infrastructure\\MasterDataManagement.Infrastructure.csproj",
         "projectName": "MasterDataManagement.Infrastructure",
-        "projectPath": "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Infrastructure\\MasterDataManagement.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Infrastructure\\obj\\",
+        "projectPath": "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Infrastructure\\MasterDataManagement.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\amish\\.nuget\\packages\\",
+        "outputPath": "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\amish\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,8 +83,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj": {
-                "projectPath": "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj"
+              "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj": {
+                "projectPath": "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj"
               }
             }
           }
@@ -132,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

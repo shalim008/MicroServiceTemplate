@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\IdentityServer\\IdentityServer\\IdentityServer.csproj": {}
+    "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\IdentityServer\\IdentityServer\\IdentityServer.csproj": {}
   },
   "projects": {
-    "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\IdentityServer\\IdentityServer\\IdentityServer.csproj": {
+    "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\IdentityServer\\IdentityServer\\IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
+        "projectUniqueName": "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
         "projectName": "IdentityServer",
-        "projectPath": "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\IdentityServer\\IdentityServer\\obj\\",
+        "projectPath": "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
+        "packagesPath": "C:\\Users\\amish\\.nuget\\packages\\",
+        "outputPath": "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\IdentityServer\\IdentityServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\amish\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

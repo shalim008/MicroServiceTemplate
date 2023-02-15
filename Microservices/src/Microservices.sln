@@ -19,7 +19,9 @@ Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-co
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityServer", "IdentityServer", "{D702F260-DB7C-422F-8E0E-70FE837CF9D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "Services\IdentityServer\IdentityServer\IdentityServer.csproj", "{A4390EBA-2B48-4B57-B705-25457F543471}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServer", "Services\IdentityServer\IdentityServer\IdentityServer.csproj", "{A4390EBA-2B48-4B57-B705-25457F543471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterDataManagement.Client", "Services\MasterDataManagement\MasterDataManagement.Client\MasterDataManagement.Client.csproj", "{4E7D9675-4B97-43D3-889B-5447FD458E01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +49,10 @@ Global
 		{A4390EBA-2B48-4B57-B705-25457F543471}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4390EBA-2B48-4B57-B705-25457F543471}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4390EBA-2B48-4B57-B705-25457F543471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E7D9675-4B97-43D3-889B-5447FD458E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7D9675-4B97-43D3-889B-5447FD458E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7D9675-4B97-43D3-889B-5447FD458E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7D9675-4B97-43D3-889B-5447FD458E01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +64,7 @@ Global
 		{98854B96-1005-4CC4-9731-00A1C1FE3E62} = {6696CC6E-B989-4233-800E-BF83AE71A9BF}
 		{D702F260-DB7C-422F-8E0E-70FE837CF9D6} = {FAC734B5-7FA5-4EF7-ABF8-FCF70220243D}
 		{A4390EBA-2B48-4B57-B705-25457F543471} = {D702F260-DB7C-422F-8E0E-70FE837CF9D6}
+		{4E7D9675-4B97-43D3-889B-5447FD458E01} = {6696CC6E-B989-4233-800E-BF83AE71A9BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B6B5774B-5D50-4966-8086-C7D0E10F2137}

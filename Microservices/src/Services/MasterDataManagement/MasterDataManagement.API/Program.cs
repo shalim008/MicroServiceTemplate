@@ -3,6 +3,7 @@ using MasterDataManagement.API.Helpers;
 using MasterDataManagement.API.Middleware;
 using MasterDataManagement.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -31,6 +32,20 @@ builder.Services.AddCors(opt =>
     });
 });
 
+builder.Services.AddAuthentication("Bearer")
+                    .AddJwtBearer("Bearer", options =>
+                    {
+                        options.Authority = "https://localhost:5000";
+                        options.TokenValidationParameters = new TokenValidationParameters
+                        {
+                            ValidateAudience = false
+                        };
+                    });
+
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("ClientIdPolicy", policy => policy.RequireClaim("client_id", "masterDataManagementClient", "masterData_mvc_client"));
+});
 
 var app = builder.Build();
 app.UseMiddleware<ExceptionMiddleware>();
@@ -45,23 +60,28 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseHttpsRedirection();
 
-app.UseStatusCodePagesWithReExecute("/errors/{0}");
+app.UseRouting();
 
-app.UseCors("CorsPolicy");
-app.MapControllers();
+app.UseAuthentication();
+app.UseAuthorization();
 
-// Migrate database runtime
-using (var scope = app.Services.CreateScope())
+app.UseEndpoints(endpoints =>
 {
-    var services = scope.ServiceProvider;
+    endpoints.MapControllers();
+});
+////// Migrate database runtime
+////using (var scope = app.Services.CreateScope())
+////{
+////    var services = scope.ServiceProvider;
 
-    var context = services.GetRequiredService<StoreContext>();
-    if (context.Database.GetPendingMigrations().Any())
-    {
-        context.Database.Migrate();
-    }
-}
+////    var context = services.GetRequiredService<StoreContext>();
+////    if (context.Database.GetPendingMigrations().Any())
+////    {
+////        context.Database.Migrate();
+////    }
+////}
 
 app.Run();
 

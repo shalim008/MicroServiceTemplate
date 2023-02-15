@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\amish\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj",
+      "projectUniqueName": "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj",
       "projectName": "MasterDataManagement.Core",
-      "projectPath": "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\obj\\",
+      "projectPath": "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj",
+      "packagesPath": "C:\\Users\\amish\\.nuget\\packages\\",
+      "outputPath": "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\amish\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

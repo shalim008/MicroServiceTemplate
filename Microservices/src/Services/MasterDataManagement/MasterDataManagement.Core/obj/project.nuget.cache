@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jpXrsdkonbrnQA2uIOKFDgzoznMoOTjoXoyyqZHM9fiwE3cWfy+upGfSdP/qCqkmfmIKCTiPGG6d+qnqRoKL0g==",
+  "dgSpecHash": "ZMugiIgOlrpTcLOYOSNvXGFbpDZDCArotXGC/mWqpqDp6gGkg1Q/rh4cdmFWmYasLdwBBL5mYoBVUy7PXlnjbw==",
   "success": true,
-  "projectFilePath": "D:\\Microservice Custom\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj",
+  "projectFilePath": "E:\\Working Project\\MicroServiceTemplate\\Microservices\\src\\Services\\MasterDataManagement\\MasterDataManagement.Core\\MasterDataManagement.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
